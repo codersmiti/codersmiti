@@ -4,7 +4,7 @@
 </p>
 
 ---
-## 🚀 About Me
+## About Me
 
 - Recent internship at **Sentari AI** (real-time infra, async pipelines, natural-language reminders)  
 - Worked on **geospatial risk modeling** for 10K+ insured assets (Assured Guaranty)  
