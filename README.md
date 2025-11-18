@@ -1,13 +1,6 @@
 <!-- Centered Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3200&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Smiti+Kothari;Software+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Building+Scalable+Systems+and+AI+Driven+Products;Cloud-Native+Infra+%7C+Distributed+Systems+%7C+Geospatial+ML" />
-</p>
-
----
-
-<!-- Dark Blue Animated Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/5G9fQk5/animated-tech-banner.gif" width="90%" />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3200&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Smiti+Kothari;Software+Engineer+%7C+Data+Scientist+%7C+ML+Engineer;Building+Scalable+Systems+and+AI+Driven+Products" />
 </p>
 
 ---
@@ -15,8 +8,8 @@
 
 - Recent internship at **Sentari AI** (real-time infra, async pipelines, natural-language reminders)  
 - Worked on **geospatial risk modeling** for 10K+ insured assets (Assured Guaranty)  
-- Contributed to **GRASS GIS (C)** & ISRO-backed geospatial research  
-- **MSCS @ NC State** — 4.0/4.0 GPA  
+- Contributed to **GRASS GIS** & ISRO-backed geospatial research  
+- **MSCS @ NC State** (4.0/4.0 GPA ) 
 - Building distributed systems, agentic workflows & production AI  
 - Fun fact: I love volleyball & travelling
 
@@ -102,17 +95,11 @@ Flask · Deep Learning · React
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersmiti&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=codersmiti&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersmiti&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 ---
 
 ## Connect With Me
