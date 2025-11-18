@@ -114,9 +114,9 @@ Flask · Deep Learning · React
   <a href="mailto:kotharismiti24@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://codersmiti.github.io/Portfolio_Website/">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
-  </a>
+ <a href="https://codersmiti.github.io/Portfolio_Website/">
+  <img src="https://skillicons.dev/icons?i=web" />
+</a>
 </p>
 
 ---
